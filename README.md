@@ -1,4 +1,4 @@
-# common-voice-files
+# Sentence Collector
 
 Notes and files for sentence collection for common voice in Esperanto
 
