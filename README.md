@@ -5,8 +5,13 @@ Notes and files for sentence collection for common voice in Esperanto
 ## Links
 * Common Voice: https://voice.mozilla.org/
 * Sentence Collector: https://common-voice.github.io/sentence-collector/#/
+of 1000.
+    
+Fontoj:
+* Vikifontaro https://eo.wikisource.org/wiki/%C4%88efpa%C4%9Do
+* Bertilo en HTML https://tekstaro.com/elshuti.html
 * OSCAR or Open Super-large Crawled ALMAnaCH coRpus https://traces1.inria.fr/oscar/
-    * the folder less4 contains 20 000 sentences from this corpus with less than four words. I plan to import them in Chunks of 1000.
+    * the folder less4 contains 20 000 sentences from this corpus with less than four words. I plan to import them in Chunks  
 
 
 ## useful bash snippets for sentence extraction from old books
