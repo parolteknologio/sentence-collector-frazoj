@@ -1,6 +1,6 @@
 # common-voice-files
 
-Notes and files for common voice in German and Esperanto
+Notes and files for sentence collection for common voice in Esperanto
 
 ## Links
 * Common Voice: https://voice.mozilla.org/
