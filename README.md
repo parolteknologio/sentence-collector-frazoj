@@ -5,6 +5,8 @@ Notes and files for sentence collection for common voice in Esperanto
 ## Links
 * Common Voice: https://voice.mozilla.org/
 * Sentence Collector: https://common-voice.github.io/sentence-collector/#/
+* Laguage tool:https://languagetool.org/
+    https://github.com/languagetool-org/languagetool
     
 Fontoj:
 * Vikifontaro https://eo.wikisource.org/wiki/%C4%88efpa%C4%9Do
