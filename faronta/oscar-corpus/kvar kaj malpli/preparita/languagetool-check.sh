@@ -3,7 +3,7 @@
 
 # insert username and API key from https://languagetoolplus.com/api-access
 username='mail'
-apiKey='pass'
+apiKey='key'
 
 while IFS= read -r line; do
 
