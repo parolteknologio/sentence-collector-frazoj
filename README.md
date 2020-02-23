@@ -15,6 +15,7 @@ Fontoj:
 * OSCAR or Open Super-large Crawled ALMAnaCH coRpus https://traces1.inria.fr/oscar/
     * the folder less4 contains 20 000 sentences from this corpus with less than four words. I plan to import them in Chunks of 1000. 
 * https://www.liberafolio.org/ (uzado estis permesita de redaktoro Kalle Kniivilä)
+* https://uea.facila.org/ (uzado estis permesita de redaktoro Anna Lowenstein)
 
 
 ## useful bash snippets for sentence extraction from old books
