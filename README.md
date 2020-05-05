@@ -11,9 +11,9 @@ Notes and files for sentence collection for common voice in Esperanto
     
 Fontoj:
 * Vikifontaro https://eo.wikisource.org/wiki/%C4%88efpa%C4%9Do
-* Bertilo en HTML https://tekstaro.com/elshuti.html
+* Bertilo en HTML https://tekstaro.com/elshuti.html (nur publika havaĵo)
+    * Artikoloj el la gazoto "Monato" kiuj aperas en tekstaro.com (uzado estis permesita de redaktoro Paŭl Peeraerts)
 * OSCAR or Open Super-large Crawled ALMAnaCH coRpus https://traces1.inria.fr/oscar/
-    * the folder less4 contains 20 000 sentences from this corpus with less than four words. I plan to import them in Chunks of 1000. 
 * https://www.liberafolio.org/ (uzado estis permesita de redaktoro Kalle Kniivilä)
 * https://uea.facila.org/ (uzado estis permesita de redaktoro Anna Lowenstein)
 
