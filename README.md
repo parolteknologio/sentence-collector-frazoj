@@ -13,9 +13,9 @@ Fontoj:
 * Vikifontaro https://eo.wikisource.org/wiki/%C4%88efpa%C4%9Do
 * Bertilo en HTML https://tekstaro.com/elshuti.html (nur publika havaĵo)
     * Artikoloj el la gazeto "Monato" kiuj aperas en tekstaro.com (uzado estis permesita de redaktoro Paŭl Peeraerts)
-* OSCAR or Open Super-large Crawled ALMAnaCH coRpus https://traces1.inria.fr/oscar/
 * https://www.liberafolio.org/ (uzado estis permesita de redaktoro Kalle Kniivilä)
 * https://uea.facila.org/ (uzado estis permesita de redaktoro Anna Lowenstein)
+* OSCAR or Open Super-large Crawled ALMAnaCH coRpus https://traces1.inria.fr/oscar/ (bedaŭrinde ĝi ne vere estas publika havaĵo)
 
 
 ## useful bash snippets for sentence extraction from old books
